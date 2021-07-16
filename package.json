@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ljm556-max/M-ui/issues"
   },
-  "homepage": "https://github.com/ljm556-max/M-ui#readme"
+  "homepage": "https://github.com/ljm556-max/M-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
